@@ -9,8 +9,8 @@
 <body>
     <div class="container">
     		<div class="row">
-			<a href ="https://github.com/gmmistur/Project1">GitHub Link </a>
-    			<h3>Project 1</h3>
+			<a href ="https://github.com/gmmistur/Project1">***Link to GitHub Repository*** </a>
+    			<h3>Project 1 - Gina Mistura</h3>
     		</div>
 			<div class="row">
 				<p>
